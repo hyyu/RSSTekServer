@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_91778e60d5c52d12ea92c817f9187f20da2dd08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_a03e13e7ff1977d8e45807bbc97def94b800977b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_3a10e882c04d893a62f2936f4ecb10c898977057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_bc39c2258e2147e05c3adf6f58e736e1711255dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_e34e35b7a436808c2aa7427068a85b9703ddba26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0ee8d9c39ba95613a709daf2a937854fd60c8832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_d0755737c05833562897f72e47d008b4d773fa15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_ffc48234d341158e77c2527d8e26c2a2a599fd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_9ff60f5a1b50d88e71b363d3f76670d5952f0229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_c1aa699ff0ed165f13d7bba9f93c725094a112e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_6e22d9c5c87a95d91589cd1129bbc38666bda1ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_aa410b38a64879b4f05e36f0f1ebcce763b0998e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ca7fe23809023ccb30b2c17e6d1070be8512cbbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e86400d9fbb577a9915ae8bccddb5bed16c72076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_58feb30b6d7d549bcc7a01b30ec3d240c2b87cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_298afdf500dd2b89de6a00eb8ca326e4ea087661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_731786f819b7f5fdc0091c85193bd34b0b4557a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8e69e4507ba7b7d471cdef7da96ceebc3f189384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_96252eb2594ab6810ea260a8df4cbe89a1a0ee2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0f8e3afab5a3f8eece1ccdcb16a52465ef377d69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_44d8b3950e07a3f4f7e2613ccfa3a9c0994e035b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_924f169b2b86191c2bd9b4f30f7cbec99d53631e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a70c7b374e923cd838f15aa6fb5f01fa480b8381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_ca02fb4b702eb718b37090f788b4123bff40d8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_12af701dec0ee205ca0a8c6fb54570309e87adfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bdeba4e0aba3af6c7bc5722963d1031e7876910b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_be1af329d285ed52dc9a5c9d4edf5b2ecf7b48a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_79683636c1b96b323c763ae22a3a1851f51a494b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_35dc327860bf2e27f1cb8df2dbb22ead81d2d832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_91eef9626e65a53ad0486e8d9ba94706ab85f49c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_fad2446de14fdfa04123d8e374db4d4de3e2e299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/SimpleRSSReader/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_903afb8847c595ff84e83d9779f295bd9a1cd288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d7ffeb68fbd814d80f8232b875d5fe78052d1fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_10902d617e20a38787912e748d4f62350dd1cc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/antoinedanibo/Documents/Epitech/rss/RSSTekServer/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_a9899d1e825834f20959fa2e4ddf3d7e8a7778eb.jar" />
+    </item>
+
+</items>
